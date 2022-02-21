@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mahim Khan</h1>
-<h3 align="center">A self-taught, self-motivated and hardworking Flutter developer & Android developer who is looking for any opportunity to work in an organization also utilizes my skills and knowledge. Fun fact: “Android is the reason why I started programming”.</h3>
+<h1 align="center">Hi 👋, I'm Abdullah Al Fahim(Mahim)</h1>
+<h3 align="center">A self-taught, self-motivated and hardworking Flutter developer & Android developer who is looking for any opportunity to work in an organization also utilizes my skills and knowledge. Fun fact: “Android is the reason why I started programming”.</h3> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahim-khan&label=Profile%20views&color=0e75b6&style=flat" alt="mahim-khan" /> </p>
 
